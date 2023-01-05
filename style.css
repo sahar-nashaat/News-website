@@ -1,0 +1,52 @@
+.navbar-brand img{
+    width: 136px;
+    height: 120px;
+    
+}
+.binduz-er-recent-news-item .binduz-er-content .binduz-er-meta-item .binduz-er-meta-categories a {
+    background: #ffd204;
+}
+.binduz-er-editors-pack-item .binduz-er-recently-viewed-item:hover .binduz-er-content .binduz-er-meta-item .binduz-er-meta-categories a {
+    background: #ffd204;
+}
+.binduz-er-editors-pack-item .binduz-er-recently-viewed-item .binduz-er-content .binduz-er-meta-item .binduz-er-meta-categories a {
+    background: #ffd204;
+}
+a:hover {
+    background: #ffd204;
+}
+.binduz-er-editors-pack-item .binduz-er-recently-viewed-item .binduz-er-content .binduz-er-meta-item .binduz-er-meta-categories a {
+    color: white;
+}
+.binduz-er-editors-pack-content:hover .binduz-er-meta-item .binduz-er-meta-categories a {
+    background: #ffd204;
+}
+.binduz-er-editors-pack-content .binduz-er-meta-item .binduz-er-meta-categories a {
+    color: white;
+}
+.binduz-er-editors-pack-content .binduz-er-meta-item .binduz-er-meta-categories a {
+    background: #ffd204;
+}
+.binduz-er-back-to-top {
+    background: #ffd204;
+}
+a:hover{
+    color: white;
+}
+.binduz-er-editors-pack-item .binduz-er-recently-viewed-item .binduz-er-content .binduz-er-title a:hover{
+    color: white;
+}
+.binduz-er-recent-news-item .binduz-er-content .binduz-er-title a:hover{
+    color: white;
+}
+#recentNewsContainer img{
+width: 300px;
+height: 200px;
+}
+#recentNewsContainer{
+    margin: 45px;
+}
+#subMainArticles{
+    margin: 45px;
+}
+
